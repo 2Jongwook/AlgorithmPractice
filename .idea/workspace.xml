@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2640dca3-290f-4e2f-9a55-33d62ab1ef27" name="Changes" comment="">
+    <list default="true" id="2640dca3-290f-4e2f-9a55-33d62ab1ef27" name="Changes" comment="20221222">
+      <change afterPath="$PROJECT_DIR$/BaekJoonEx/src/B11399ATM시간최솟값/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/baek/B11050/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,16 +30,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Desktop/study/baek&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/admin/Desktop/study/baek",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.B15649백트래킹.Main">
+}]]></component>
+  <component name="RunManager" selected="Application.B11399ATM시간최솟값.Main">
     <configuration name="B1010다리놓기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B1010다리놓기.Main" />
       <module name="baek" />
@@ -51,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B15649백트래킹.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B15649백트래킹.Main" />
+    <configuration name="B11399ATM시간최솟값.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B11399ATM시간최솟값.Main" />
       <module name="baek" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="B15649백트래킹.*" />
+          <option name="PATTERN" value="B11399ATM시간최솟값.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B1934최소공배.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B1934최소공배.Main" />
+    <configuration name="B15649백트래킹.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B15649백트래킹.Main" />
       <module name="baek" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="B1934최소공배.*" />
+          <option name="PATTERN" value="B15649백트래킹.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.B11399ATM시간최솟값.Main" />
         <item itemvalue="Application.B15649백트래킹.Main" />
         <item itemvalue="Application.B1010다리놓기.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.B3036기약분수링.Main" />
-        <item itemvalue="Application.B1934최소공배.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +148,10 @@
       <workItem from="1671678769384" duration="21000" />
       <workItem from="1671682849027" duration="2564000" />
       <workItem from="1671685779322" duration="658000" />
-      <workItem from="1671762077468" duration="2147000" />
+      <workItem from="1671762077468" duration="2243000" />
+      <workItem from="1671846758048" duration="4000" />
+      <workItem from="1672633723008" duration="12000" />
+      <workItem from="1672636725642" duration="1555000" />
     </task>
     <task id="LOCAL-00001" summary="20221222">
       <created>1671685084909</created>
@@ -169,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671686392995</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="20221222">
+      <created>1671764316159</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671764316159</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
