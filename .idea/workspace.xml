@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2640dca3-290f-4e2f-9a55-33d62ab1ef27" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BaekJoonEx/src/B1269HashMapArrayList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoonEx/src/B1269HashMapArrayList/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,22 +30,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Desktop/study/baek&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/admin/Desktop/study/baek",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.B1026보물그리디.Main">
-    <configuration name="B1010다리놓기.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B1010다리놓기.Main" />
+}]]></component>
+  <component name="RunManager" selected="Application.Main2">
+    <configuration name="B10162전자레인지.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B10162전자레인지.Main" />
       <module name="baek" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="B1010다리놓기.*" />
+          <option name="PATTERN" value="B10162전자레인지.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,12 +53,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B1026보물그리디.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B1026보물그리디.Main" />
+    <configuration name="B1269HashMapArrayList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B1269HashMapArrayList.Main" />
       <module name="baek" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="B1026보물그리디.*" />
+          <option name="PATTERN" value="B1269HashMapArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B11047동전.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B11047동전.Main" />
+    <configuration name="B5585거스름돈.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B5585거스름돈.Main" />
       <module name="baek" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="B11047동전.*" />
+          <option name="PATTERN" value="B5585거스름돈.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B11399ATM시간최솟값.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B11399ATM시간최솟값.Main" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B10162전자레인지.Main2" />
       <module name="baek" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="B11399ATM시간최솟값.*" />
+          <option name="PATTERN" value="B10162전자레인지.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B15649백트래킹.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B15649백트래킹.Main" />
+    <configuration name="practicegetOrDefault" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B1764HashMapgetOrDefault.practicegetOrDefault" />
       <module name="baek" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="B15649백트래킹.*" />
+          <option name="PATTERN" value="B1764HashMapgetOrDefault.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.B1026보물그리디.Main" />
-        <item itemvalue="Application.B11047동전.Main" />
-        <item itemvalue="Application.B11399ATM시간최솟값.Main" />
-        <item itemvalue="Application.B15649백트래킹.Main" />
-        <item itemvalue="Application.B1010다리놓기.Main" />
+        <item itemvalue="Application.Main2" />
+        <item itemvalue="Application.B10162전자레인지.Main" />
+        <item itemvalue="Application.B5585거스름돈.Main" />
+        <item itemvalue="Application.B1269HashMapArrayList.Main" />
+        <item itemvalue="Application.practicegetOrDefault" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +154,9 @@
       <workItem from="1672636725642" duration="1900000" />
       <workItem from="1672805134343" duration="39000" />
       <workItem from="1672808897762" duration="1042000" />
-      <workItem from="1672892916844" duration="920000" />
+      <workItem from="1672892916844" duration="1763000" />
+      <workItem from="1672896117692" duration="11000" />
+      <workItem from="1672979603980" duration="4192000" />
     </task>
     <task id="LOCAL-00001" summary="20221222">
       <created>1671685084909</created>
@@ -196,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672809754473</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="20230105">
+      <created>1672893853962</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1672893853962</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,6 +216,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20221222" />
     <MESSAGE value="20230104" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230104" />
+    <MESSAGE value="20230105" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230105" />
   </component>
 </project>

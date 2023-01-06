@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
+
 public class Main {
     public static void main(String[] args) {
         //해시 맵과 어레이리스트를 각각 생성해주는 문제
