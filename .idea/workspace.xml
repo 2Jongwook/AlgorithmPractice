@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2640dca3-290f-4e2f-9a55-33d62ab1ef27" name="Changes" comment="20230107">
+    <list default="true" id="2640dca3-290f-4e2f-9a55-33d62ab1ef27" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baek/B1026보물그리디/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baek/B1037약수/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baek/B10815숫자카드이분탐색/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baek/B10816숫카탐색2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baek/B10870피보나치재귀/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baek/B10872/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baek/B11047동전/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baek/B11050이항계수/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baek/B11399ATM시간최솟값/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baek/B14425HashMap/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baek/B1764HashMapgetOrDefault/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baek/B1764HashMapgetOrDefault/practicegetOrDefault.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baek/B1931회의실그리디/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baek/B2447/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baek/B25501팰린드롬/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baek/B2609최대공약최소공배/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baek/B2981같은나머지구하기/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baek/B3036기약분수링/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baek/B5086/Main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +37,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.그리디.B2217로프.Main">
+  <component name="RunManager" selected="Application.그리디.B1439.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B2738행렬덧셈.Main" />
       <module name="baek" />
@@ -70,12 +51,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="그리디.B10162전자레인지.Main2" />
+    <configuration name="그리디.B1439.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="그리디.B1439.Main" />
       <module name="baek" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="그리디.B10162전자레인지.*" />
+          <option name="PATTERN" value="그리디.B1439.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="그리디.B10162전자레인지.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="그리디.B10162전자레인지.Main" />
+    <configuration name="그리디.B1789.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="그리디.B1789.Main" />
       <module name="baek" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="그리디.B10162전자레인지.*" />
+          <option name="PATTERN" value="그리디.B1789.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.그리디.B1439.Main" />
+        <item itemvalue="Application.그리디.B1789.Main" />
         <item itemvalue="Application.그리디.B2217로프.Main" />
         <item itemvalue="Application.그리디.B4796캠핑.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.그리디.B10162전자레인지.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +158,9 @@
       <workItem from="1672990102580" duration="723000" />
       <workItem from="1673078555835" duration="2438000" />
       <workItem from="1673083242397" duration="11000" />
-      <workItem from="1673148296807" duration="2097000" />
+      <workItem from="1673148296807" duration="2165000" />
+      <workItem from="1673322534027" duration="17000" />
+      <workItem from="1673323360245" duration="3195000" />
     </task>
     <task id="LOCAL-00001" summary="20221222">
       <created>1671685084909</created>
@@ -249,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673083132591</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="20230108">
+      <created>1673150507222</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1673150507222</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,6 +251,7 @@
     <MESSAGE value="20230105" />
     <MESSAGE value="20230106" />
     <MESSAGE value="20230107" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230107" />
+    <MESSAGE value="20230108" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230108" />
   </component>
 </project>
