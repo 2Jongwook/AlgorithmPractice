@@ -37,13 +37,39 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.그리디.B1049.Main">
+  <component name="RunManager" selected="Application.그리디.B10610.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="그리디.B2864.Main" />
+      <module name="baek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="그리디.B2864.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="그리디.B1049.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="그리디.B1049.Main" />
       <module name="baek" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="그리디.B1049.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="그리디.B10610.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="그리디.B10610.Main" />
+      <module name="baek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="그리디.B10610.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,39 +103,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="그리디.B2217로프.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="그리디.B2217로프.Main" />
-      <module name="baek" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="그리디.B2217로프.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="그리디.B4796캠핑.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="그리디.B4796캠핑.Main" />
-      <module name="baek" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="그리디.B4796캠핑.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.그리디.B10610.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.그리디.B1049.Main" />
         <item itemvalue="Application.그리디.B1439.Main" />
         <item itemvalue="Application.그리디.B1789.Main" />
-        <item itemvalue="Application.그리디.B2217로프.Main" />
-        <item itemvalue="Application.그리디.B4796캠핑.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +162,8 @@
       <workItem from="1673322534027" duration="17000" />
       <workItem from="1673323360245" duration="3347000" />
       <workItem from="1673408036203" duration="38000" />
-      <workItem from="1673411939682" duration="2426000" />
+      <workItem from="1673411939682" duration="2564000" />
+      <workItem from="1673494889288" duration="4546000" />
     </task>
     <task id="LOCAL-00001" summary="20221222">
       <created>1671685084909</created>
@@ -248,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673326718771</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="20230111">
+      <created>1673414492016</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1673414492016</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,6 +270,7 @@
     <MESSAGE value="20230107" />
     <MESSAGE value="20230108" />
     <MESSAGE value="20230110" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230110" />
+    <MESSAGE value="20230111" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230111" />
   </component>
 </project>
