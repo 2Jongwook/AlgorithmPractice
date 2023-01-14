@@ -37,7 +37,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.그리디.B1946.Main">
+  <component name="RunManager" selected="Application.그리디.B1715.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="그리디.B2864.Main" />
       <module name="baek" />
@@ -77,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="그리디.B1439.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="그리디.B1439.Main" />
+    <configuration name="그리디.B1715.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="그리디.B1715.Main" />
       <module name="baek" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="그리디.B1439.*" />
+          <option name="PATTERN" value="그리디.B1715.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.그리디.B1715.Main" />
         <item itemvalue="Application.그리디.B1946.Main" />
         <item itemvalue="Application.그리디.B10610.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.그리디.B1049.Main" />
-        <item itemvalue="Application.그리디.B1439.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +165,9 @@
       <workItem from="1673411939682" duration="2564000" />
       <workItem from="1673494889288" duration="4747000" />
       <workItem from="1673583566280" duration="26000" />
-      <workItem from="1673587848926" duration="2713000" />
+      <workItem from="1673587848926" duration="2821000" />
+      <workItem from="1673667772532" duration="15000" />
+      <workItem from="1673672075215" duration="3561000" />
     </task>
     <task id="LOCAL-00001" summary="20221222">
       <created>1671685084909</created>
@@ -265,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673500052524</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="20230112">
+      <created>1673590678291</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1673590678291</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
