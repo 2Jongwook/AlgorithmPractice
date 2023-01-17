@@ -1,4 +1,4 @@
-package B2231분해합;
+package 브루트포스.B2231분해합;
 
 import java.util.Scanner;
 

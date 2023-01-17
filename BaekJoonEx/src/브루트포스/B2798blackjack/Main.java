@@ -1,4 +1,4 @@
-package B2798blackjack;
+package 브루트포스.B2798blackjack;
 
 import java.util.Scanner;
 
