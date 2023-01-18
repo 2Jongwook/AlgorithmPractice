@@ -1,4 +1,4 @@
-package 집합과맵.B14425HashMap;
+package 자료구조.B14425HashMap;
 
 import java.util.HashMap;
 import java.util.Scanner;

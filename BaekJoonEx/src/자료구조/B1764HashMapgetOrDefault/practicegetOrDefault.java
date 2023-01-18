@@ -1,4 +1,4 @@
-package 집합과맵.B1764HashMapgetOrDefault;
+package 자료구조.B1764HashMapgetOrDefault;
 
 import java.util.HashMap;
 

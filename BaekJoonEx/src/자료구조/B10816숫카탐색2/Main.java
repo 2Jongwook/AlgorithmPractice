@@ -1,4 +1,4 @@
-package 집합과맵.B10816숫카탐색2;
+package 자료구조.B10816숫카탐색2;
 
 import java.io.BufferedReader;
 import java.io.IOException;

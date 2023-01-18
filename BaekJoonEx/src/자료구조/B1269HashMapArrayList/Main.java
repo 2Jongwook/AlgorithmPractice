@@ -1,4 +1,4 @@
-package 집합과맵.B1269HashMapArrayList;
+package 자료구조.B1269HashMapArrayList;
 
 import java.util.ArrayList;
 import java.util.HashMap;

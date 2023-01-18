@@ -1,4 +1,4 @@
-package 집합과맵.B10815숫자카드이분탐색;
+package 자료구조.B10815숫자카드이분탐색;
 
 import java.util.Arrays;
 import java.util.Scanner;
