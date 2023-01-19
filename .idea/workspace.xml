@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2640dca3-290f-4e2f-9a55-33d62ab1ef27" name="Changes" comment="20230117">
+    <list default="true" id="2640dca3-290f-4e2f-9a55-33d62ab1ef27" name="Changes" comment="20230118">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJoonEx/src/집합과맵/B10815숫자카드이분탐색/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoonEx/src/자료구조/B10815숫자카드이분탐색/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJoonEx/src/집합과맵/B10816숫카탐색2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoonEx/src/자료구조/B10816숫카탐색2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJoonEx/src/집합과맵/B1269HashMapArrayList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoonEx/src/자료구조/B1269HashMapArrayList/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJoonEx/src/집합과맵/B14425HashMap/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoonEx/src/자료구조/B14425HashMap/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJoonEx/src/집합과맵/B1764HashMapgetOrDefault/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoonEx/src/자료구조/B1764HashMapgetOrDefault/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJoonEx/src/집합과맵/B1764HashMapgetOrDefault/practicegetOrDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoonEx/src/자료구조/B1764HashMapgetOrDefault/practicegetOrDefault.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baek/B2231분해합/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baek/B2798blackjack/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/baek/그리디/B1931회의실그리디/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/baek/그리디/B1931회의실그리디/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/baek/집합과맵/B10815숫자카드이분탐색/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/baek/집합과맵/B10816숫카탐색2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/baek/집합과맵/B1269HashMapArrayList/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/baek/집합과맵/B14425HashMap/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/baek/집합과맵/B1764HashMapgetOrDefault/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/baek/집합과맵/B1764HashMapgetOrDefault/practicegetOrDefault.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +39,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/admin/Desktop/study/JavaStudy/JavaStudyJDK",
+    "last_opened_file_path": "C:/Users/admin/Desktop/study/baek",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.자료구조.B10828.Main">
+  <component name="RunManager" selected="Application.자료구조.B10845.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="그리디.B14659.Main" />
       <module name="baek" />
@@ -73,6 +70,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="자료구조.B10845.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자료구조.B10845.Main" />
+      <module name="baek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="자료구조.B10845.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="그리디.B14720.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="그리디.B14720.Main" />
       <module name="baek" />
@@ -86,25 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="그리디.B1931회의실그리디.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="그리디.B1931회의실그리디.Main" />
+    <configuration name="그리디.B14916.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="그리디.B14916.Main" />
       <module name="baek" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="그리디.B1931회의실그리디.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="그리디.B2720.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="그리디.B2720.Main" />
-      <module name="baek" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="그리디.B2720.*" />
+          <option name="PATTERN" value="그리디.B14916.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.자료구조.B10845.Main" />
+        <item itemvalue="Application.그리디.B14916.Main" />
         <item itemvalue="Application.자료구조.B10828.Main" />
         <item itemvalue="Application.그리디.B14720.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.그리디.B1931회의실그리디.Main" />
-        <item itemvalue="Application.그리디.B2720.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +177,8 @@
       <workItem from="1673760534418" duration="16000" />
       <workItem from="1673761551612" duration="1360000" />
       <workItem from="1673935297791" duration="2635000" />
-      <workItem from="1674015053805" duration="5300000" />
+      <workItem from="1674015053805" duration="5600000" />
+      <workItem from="1674098052890" duration="2794000" />
     </task>
     <task id="LOCAL-00001" summary="20221222">
       <created>1671685084909</created>
@@ -308,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673937945743</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="20230118">
+      <created>1674020687492</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1674020687492</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,6 +332,7 @@
     <MESSAGE value="20230114" />
     <MESSAGE value="20230115" />
     <MESSAGE value="20230117" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230117" />
+    <MESSAGE value="20230118" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230118" />
   </component>
 </project>
