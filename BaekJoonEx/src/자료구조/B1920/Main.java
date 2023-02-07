@@ -10,6 +10,7 @@ public class Main {
 
         int N = sc.nextInt();
         HashMap<Integer, Integer> a_map = new HashMap<>();
+
         for(int i = 0; i < N; i++){
             a_map.put(sc.nextInt(), 1);
         }
