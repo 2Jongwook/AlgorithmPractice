@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2640dca3-290f-4e2f-9a55-33d62ab1ef27" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BaekJoonEx/src/자료구조/B1920/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/BaekJoonEx/src/자료구조/B1920/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,16 +28,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Desktop/study/baek&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/admin/Desktop/study/baek",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.자료구조.B10773.Main">
+}]]></component>
+  <component name="RunManager" selected="Application.자료구조.B2164.Main">
     <configuration name="AnotherMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="그리디.B2847.AnotherMain" />
       <module name="baek" />
@@ -78,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="그리디.B2847.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="그리디.B2847.Main" />
+    <configuration name="자료구조.B2164.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자료구조.B2164.Main" />
       <module name="baek" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="그리디.B2847.*" />
+          <option name="PATTERN" value="자료구조.B2164.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.자료구조.B2164.Main" />
         <item itemvalue="Application.자료구조.B10773.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.practicegetOrDefault" />
         <item itemvalue="Application.AnotherMain" />
-        <item itemvalue="Application.그리디.B2847.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +175,9 @@
       <workItem from="1674098052890" duration="2909000" />
       <workItem from="1674185908611" duration="1999000" />
       <workItem from="1675661589158" duration="691000" />
-      <workItem from="1675747613844" duration="3082000" />
+      <workItem from="1675747613844" duration="3139000" />
+      <workItem from="1675829744880" duration="45000" />
+      <workItem from="1675829963320" duration="2422000" />
     </task>
     <task id="LOCAL-00001" summary="20221222">
       <created>1671685084909</created>
@@ -332,7 +333,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675662196756</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="20230207">
+      <created>1675750775869</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1675750775869</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -355,6 +363,7 @@
     <MESSAGE value="20230119" />
     <MESSAGE value="20230120" />
     <MESSAGE value="20230206" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230206" />
+    <MESSAGE value="20230207" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230207" />
   </component>
 </project>
