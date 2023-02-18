@@ -28,16 +28,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Desktop/study/baek&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/admin/Desktop/study/baek",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.자료구조.B10866.Main">
+}]]></component>
+  <component name="RunManager" selected="Application.그리디.B2437.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="자료구조.B1920.Main" />
       <module name="baek" />
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practicegetOrDefault" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="자료구조.B1764HashMapgetOrDefault.practicegetOrDefault" />
+    <configuration name="그리디.B2437.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="그리디.B2437.Main" />
       <module name="baek" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="자료구조.B1764HashMapgetOrDefault.*" />
+          <option name="PATTERN" value="그리디.B2437.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.그리디.B2437.Main" />
         <item itemvalue="Application.자료구조.B10866.Main" />
         <item itemvalue="Application.자료구조.B2164.Main" />
         <item itemvalue="Application.자료구조.B10773.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.practicegetOrDefault" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +178,10 @@
       <workItem from="1675747613844" duration="3139000" />
       <workItem from="1675829744880" duration="45000" />
       <workItem from="1675829963320" duration="2591000" />
-      <workItem from="1675916294927" duration="1119000" />
+      <workItem from="1675916294927" duration="1277000" />
+      <workItem from="1676262289628" duration="1202000" />
+      <workItem from="1676522053879" duration="12000" />
+      <workItem from="1676693109259" duration="2293000" />
     </task>
     <task id="LOCAL-00001" summary="20221222">
       <created>1671685084909</created>
@@ -348,7 +351,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675832887943</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="20230209">
+      <created>1675917573089</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1675917573089</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -373,6 +383,7 @@
     <MESSAGE value="20230206" />
     <MESSAGE value="20230207" />
     <MESSAGE value="20230208" />
-    <option name="LAST_COMMIT_MESSAGE" value="20230208" />
+    <MESSAGE value="20230209" />
+    <option name="LAST_COMMIT_MESSAGE" value="20230209" />
   </component>
 </project>
