@@ -1,0 +1,13 @@
+stable sort	/ unstable sort
+
+1. stable sort 
+	값을 정렬할 때 본래의 순서가 유지되는 정렬 (insertion, merger, bubble, counting등이 있다)
+	ex) 정수 값 정렬에서의 stable
+		5(a), 5(b), 3, 2 ,4
+			>> 2, 3, 4, 5(a), 5(b)
+	
+	
+2. unstable sort
+	값을 정렬하면서 본래의 순서가 유지되지 않는 정렬(quick, heap..등이 있다.)
+	ex) 5(a), 5(b), 3, 2, 4
+			>> 2, 3, 4, 5(b), 5(a)
